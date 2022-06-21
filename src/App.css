@@ -43,3 +43,9 @@ body {
     transform: rotate(360deg);
   }
 }
+
+.get-in-touch {
+  display: flex;
+  flex-direction: column;
+  align-items: center
+}
