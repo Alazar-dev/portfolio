@@ -1,5 +1,4 @@
 import Logo from "../assets/logo.jpeg";
-import { Button } from "../components/common/Buttons";
 
 export default function Header() {
   return (

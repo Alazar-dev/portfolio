@@ -1,14 +1,12 @@
 export default function About({ technologies, profile_pic }) {
   return (
     <div className="flex flex-col my-10">
-      <h1 className="text-white text-2xl font-bold pb-4 text-center">
-        About Me
-      </h1>
+      <h1 className="text-white text-2xl font-bold pb-4">About Me</h1>
       <div className="md:flex">
         <div className="pp_container">
           <img src={profile_pic} alt="profile" />
         </div>
-        <div className="ml-10">
+        <div className="md:ml-10 pt-8 md:pt-0">
           <p className="text-gray-500">
             I'm an enthusiast Software Engineer having a great passion for
             developing engineering solutions.

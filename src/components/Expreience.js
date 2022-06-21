@@ -4,7 +4,7 @@ export default function Experience() {
       <div className="flex flex-col md:grid grid-cols-9 mx-auto p-2 text-blue-50">
         <div className="flex flex-row-reverse md:contents">
           <div className=" col-start-1 col-end-5 p-4 rounded-xl my-4 ml-auto shadow-md">
-            <h3 className="font-semibold text-lg mb-1">2F Capital</h3>
+            <h3 className="font-semibold text-lg mb-3">2F Capital</h3>
             <div className="flex">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -20,7 +20,7 @@ export default function Experience() {
                   d="M17 8l4 4m0 0l-4 4m4-4H3"
                 />
               </svg>
-              <p className="leading-tight text-justify">
+              <p className="text-gray-500 leading-tight text-justify">
                 Full Stack Developer using React.js, Material UI and Node.js
               </p>
             </div>
@@ -39,7 +39,7 @@ export default function Experience() {
                   d="M17 8l4 4m0 0l-4 4m4-4H3"
                 />
               </svg>
-              <p className="leading-tight text-justify">
+              <p className="text-gray-500 leading-tight text-justify">
                 Worked on different client websites including Ride Hailing
                 Technology and inventory systems.
               </p>
@@ -60,7 +60,7 @@ export default function Experience() {
             <div className="w-6 h-6 absolute top-1/2 -mt-3 rounded-full  shadow" />
           </div>
           <div className=" col-start-6 col-end-10 p-4 rounded-xl my-4 mr-auto shadow-md">
-            <h3 className="font-semibold text-lg mb-1">Tech 1 Factory</h3>
+            <h3 className="font-semibold text-lg mb-3">Tech 1 Factory</h3>
             <div className="flex">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -76,7 +76,7 @@ export default function Experience() {
                   d="M17 8l4 4m0 0l-4 4m4-4H3"
                 />
               </svg>
-              <p className="leading-tight text-justify">
+              <p className="text-gray-500 leading-tight text-justify">
                 Full Stack Developer using React.js, React Native, Node.js,
                 Serverless API, aws(s3, EC2) and Node.js
               </p>
@@ -96,7 +96,7 @@ export default function Experience() {
                   d="M17 8l4 4m0 0l-4 4m4-4H3"
                 />
               </svg>
-              <p className="leading-tight text-justify">
+              <p className="text-gray-500 leading-tight text-justify">
                 Worked on implementing advanced, responsive and SEO enabled
                 UI/Ux with high quality and code reusability.
               </p>
@@ -116,7 +116,7 @@ export default function Experience() {
                   d="M17 8l4 4m0 0l-4 4m4-4H3"
                 />
               </svg>
-              <p className="leading-tight text-justify">
+              <p className="text-gray-500 leading-tight text-justify">
                 Built and maintained React.js and React Native projects.
               </p>
             </div>
@@ -124,7 +124,7 @@ export default function Experience() {
         </div>
         <div className="flex flex-row-reverse md:contents">
           <div className=" col-start-1 col-end-5 p-4 rounded-xl my-4 ml-auto shadow-md">
-            <h3 className="font-semibold text-lg mb-1">Bitapps Technologies</h3>
+            <h3 className="font-semibold text-lg mb-3">Bitapps Technologies</h3>
             <div className="flex">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -140,7 +140,7 @@ export default function Experience() {
                   d="M17 8l4 4m0 0l-4 4m4-4H3"
                 />
               </svg>
-              <p className="leading-tight text-justify">
+              <p className="text-gray-500 leading-tight text-justify">
                 Full Stack Developer using React.js, Laravel and Node.js
               </p>
             </div>
@@ -159,7 +159,7 @@ export default function Experience() {
                   d="M17 8l4 4m0 0l-4 4m4-4H3"
                 />
               </svg>
-              <p className="leading-tight text-justify">
+              <p className="text-gray-500 leading-tight text-justify">
                 I design, write and maintain products, and develop reusable
                 interfaces using React.js and Laravel
               </p>
@@ -179,7 +179,7 @@ export default function Experience() {
                   d="M17 8l4 4m0 0l-4 4m4-4H3"
                 />
               </svg>
-              <p className="leading-tight text-justify">
+              <p className="text-gray-500 leading-tight text-justify">
                 I have been working on a product called Yeneta School, which is
                 a School Management System.
               </p>
@@ -199,7 +199,7 @@ export default function Experience() {
                   d="M17 8l4 4m0 0l-4 4m4-4H3"
                 />
               </svg>
-              <p className="leading-tight text-justify">
+              <p className="text-gray-500 leading-tight text-justify">
                 Also working on different company products yet to release.
               </p>
             </div>
