@@ -1,6 +1,7 @@
 import Header from "../layouts/Header";
 import Hero from "../components/Hero";
 import About from "../components/About";
+import Experience from "../components/Expreience";
 import Profile_pic from "../assets/my_pic.png";
 
 export default function Home() {
@@ -22,6 +23,7 @@ export default function Home() {
         ]}
         profile_pic={Profile_pic}
       />
+      <Experience />
     </div>
   );
 }
