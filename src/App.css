@@ -1,9 +1,16 @@
-.App {
-  text-align: center;
+body {
   background-color: #011B47;
+}
+
+.App {
   width: 100%;
   height: auto;
   padding: 2%;
+}
+
+.pp_container {
+  width: 60%;
+  height: 40%;
 }
 
 .App-logo {
