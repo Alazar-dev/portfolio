@@ -11,7 +11,6 @@ export default function Contact() {
       <div className="flex py-8">
         <a
           href="https://www.linkedin.com/in/alazar-tadesse-24450619a/"
-          target="_blank"
         >
           <svg
             className="w-6 h-6 text-blue-500 fill-current"
@@ -25,7 +24,6 @@ export default function Contact() {
         <a
           className="px-8"
           href="https://www.github.com/Alazar-dev"
-          target="_blank"
         >
           <svg
             className="w-6 h-6 text-blue-500"
@@ -37,7 +35,6 @@ export default function Contact() {
         </a>
         <a
           href="https://stackoverflow.com/users/14299229/alazar-dev"
-          target="_blank"
         >
           <svg
             className="w-6 h-6 text-blue-500 fill-current"
