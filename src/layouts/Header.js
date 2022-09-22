@@ -6,7 +6,7 @@ export default function Header() {
       <img className="App-logo" src={Logo} alt="" />
       <a
         className="text-white border rounded-lg p-2"
-        href="../assets/Alazar%20Tadesse%20-%20Resume.pdf"
+        href="../assets/Alazar%20Tadesse.pdf"
         download="Alazar Tadesse"
       >
         Resume
