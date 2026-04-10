@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/apple/Desktop/portfolio/pages/index.js"],"sourcesContent":["import dynamic from 'next/dynamic';\n\nconst App = dynamic(() => import('./home'), { ssr: false });\n\nexport default function Home() {\n    return <App />;\n}"],"names":["App","ssr","Home"],"mappings":";;;;;AAAA;;;;AAEA,MAAMA,MAAM,IAAA,mIAAO,EAAC;;;;;;IAA0BC,KAAK;;AAEpC,SAASC;IACpB,qBAAO,qKAACF;;;;;AACZ"}}]
-}
