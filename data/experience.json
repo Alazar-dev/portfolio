@@ -1,0 +1,62 @@
+[
+  {
+    "company": "AY Automate",
+    "role": "Software Engineer",
+    "date": "Nov 2025 - Mar 2026",
+    "location": "Casper, Wyoming, United States",
+    "points": [
+      "Built scalable full-stack applications using Next.js, React, Node.js, and NestJS",
+      "Developed and integrated AI-powered systems including autonomous agents, voice assistants, and intelligent automation workflows",
+      "Engineered web scraping and data analysis pipelines to extract actionable insights from large datasets",
+      "Designed high-performance APIs and implemented secure authentication (JWT, OAuth), integrating Stripe and Google OAuth",
+      "Improved system reliability and scalability through performance optimization, debugging, and architectural enhancements"
+    ]
+  },
+  {
+    "company": "National ID Program Ethiopia",
+    "role": "Software Engineer",
+    "date": "Oct 2022 - Oct 2025",
+    "location": "Addis Ababa, Ethiopia",
+    "points": [
+      "Built and deployed 5+ web applications for system monitoring with real-time visualization, alerting, and performance tracking",
+      "Contributed to microservices architecture design using Docker for scalability and reliable deployments",
+      "Developed clean, maintainable code in JavaScript and TypeScript following best practices and CI workflows",
+      "Collaborated with cross-functional teams to deliver secure, high-performance systems for the national digital ID ecosystem"
+    ]
+  },
+  {
+    "company": "Bitappstech Technology",
+    "role": "Software Engineer",
+    "date": "Mar 2022 - Oct 2022",
+    "location": "Addis Ababa, Ethiopia",
+    "points": [
+      "Designed and maintained web applications and reusable UI components using React and Laravel",
+      "Contributed to Yeneta School Management System with features like student management, attendance, and reporting",
+      "Built scalable backend services using Node.js and REST APIs",
+      "Developed and deployed the company blog platform to improve brand presence"
+    ]
+  },
+  {
+    "company": "Tech1 Factory",
+    "role": "Fullstack Developer",
+    "date": "Apr 2021 - Jan 2022",
+    "location": "Remote (Bay Area, United States)",
+    "points": [
+      "Developed web systems and cross-platform mobile applications",
+      "Built responsive UI components using React and Material UI",
+      "Implemented performance optimizations and feature enhancements using Node.js",
+      "Collaborated with teams to deliver clean, production-ready code"
+    ]
+  },
+  {
+    "company": "2F Capital",
+    "role": "Fullstack Developer",
+    "date": "Dec 2020 - Apr 2021",
+    "location": "Addis Ababa, Ethiopia",
+    "points": [
+      "Developed client applications including ride-hailing and inventory systems",
+      "Built responsive UIs and scalable backend systems",
+      "Collaborated with stakeholders to deliver tailored software solutions on time"
+    ]
+  }
+]
