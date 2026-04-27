@@ -23,7 +23,7 @@ export default function About({ technologies, profile_pic }) {
             Technologies I've been working with:
           </p>
           {technologies.map((technology) => (
-            <div>
+            <div key={technology.name}>
               <p className="text-gray-500">{technology.name}</p>
             </div>
           ))}
